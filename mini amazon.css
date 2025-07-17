@@ -1,0 +1,44 @@
+.main{
+
+    display: flex;
+
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    margin-top: 0px;
+}
+
+.prodect1{
+   background-color: rgb(202, 253, 83);
+   background-size: cover;
+    height: 280px;;
+    width: 200px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+   height: 180px;
+   width: 190px;
+   border-radius: 10px;
+}
+
+.hed{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(20, 10, 7);
+    margin-top:10px;
+    margin-bottom: 0px;
+}
+.para{
+    margin-top: 0px;
+}
+.but{
+    background-color: aqua;
+    border-radius: 10px;
+}
